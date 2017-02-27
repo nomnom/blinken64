@@ -3,7 +3,9 @@ super simple chainable 64 pixel LED displays
 
 visit the [shackspace page](http://blinken64.jerger.io) for instructions
 
-![animated gif of display](http://www.shackspace.de/wiki/lib/exe/fetch.php?media=project:blinken64.gif)
+also check out [blinken64 v2](http://www.shackspace.de/wiki/doku.php?id=project:blinken64v2) and the even more awesome [blinkenrocket](http://blinkenrocket.de/) (also on [github](https://github.com/blinkenrocket/)). big thx [@muzy](https://twitter.com/_muzy_) for making this project even more awesome!
+
+![animated gif of the display](http://www.shackspace.de/wiki/lib/exe/fetch.php?media=project:blinken64.gif)
 
 ![how to chain multiple displays](https://github.com/nomnom/blinken64/raw/master/doc/blinkenplan.png)
 ![three steps](https://github.com/nomnom/blinken64/raw/master/doc/steps.png)
